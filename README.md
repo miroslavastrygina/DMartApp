@@ -4,3 +4,4 @@
 Цель проекта — предоставить рекомендации товаров, которые могут быть полезны покупателю, на основе содержимого его корзины, для повышения удобства, персонализации и стимулирования дополнительных покупок.
 <br><a href='https://colab.research.google.com/drive/1voNp1_8BXxmN9j_oew-7_FlNg9bD4Ajn?usp=sharing
 '>Ссылка на итоговый отчет.</a>
+<br><a href='https://drive.google.com/file/d/1xjf04aXUhqN4JmZQZJvEJ8IlSV67ukYB/view?usp=sharing'>Ссылка на датасет.</a>
